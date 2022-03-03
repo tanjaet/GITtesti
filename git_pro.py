@@ -1,3 +1,5 @@
 def hello():
-    return "Hello World!, how are you!"
+    print("Hello World!, how are you!")
 
+
+hello()
